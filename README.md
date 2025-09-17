@@ -7,7 +7,6 @@
   <!-- Badges -->
   [![Email](https://img.shields.io/badge/Email-akiyoshiyapa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akiyoshiyapa@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-akiyoshiyapa.netlify.app-FF9A00?style=for-the-badge&logo=vercel&logoColor=white)](https://akiyoshiyapa.netlify.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-akiyoshiyapa-2E2E2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akiyoshi02)
   ![Profile Views](https://komarev.com/ghpvc/?username=akiyoshiyapa&style=for-the-badge&color=0A66C2&label=Profile%20Views&logo=people&logoColor=white)
 
 </div>
