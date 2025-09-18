@@ -47,7 +47,10 @@
 <!-- Contribution -->
 <div align="center">
   <h2>🎉 Connect & Engage</h2>
-  <p>💬 Say hi &nbsp; 📣 Share feedback &nbsp; 🌟 Highlight your favorite projects &nbsp; 🤗 Spread good vibes</p>
+    <p> 💬 Say hi </p>
+    <p> 📣 Share feedback </p>
+    <p> 🌟 Highlight your favorite projects </p>
+    <p> 🤗 Spread good vibes </p>
 </div>
 
 <!-- Languages -->
