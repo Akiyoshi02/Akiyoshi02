@@ -64,8 +64,6 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Akiyoshi02&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiyoshi02&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akiyoshi02&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
