@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 Hello, outsiders. I’m Akiyoshi Yapa. 👾</h1>
   <h3>Welcome to my corner of the internet, where I build, break, and create.</h3>  
-  <p>I’m a Software Engineering undergrad at SLIIT City University, passionate about crafting code that solves problems and sparks joy.</p>
+  <p>I’m a Software Engineering grad at SLIIT City Uni, passionate about crafting code that solves problems and sparks joy.</p>
 
   <!-- Badges -->
   [![Email](https://img.shields.io/badge/Email-akiyoshiyapa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akiyoshiyapa@gmail.com)
